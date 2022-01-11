@@ -1,3 +1,4 @@
+#Day 2
 print("Welcome to BMI calculator")
 
 weight = float(input("Enter your body weight in Kgs: "))

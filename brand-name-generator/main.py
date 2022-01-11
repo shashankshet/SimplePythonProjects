@@ -1,3 +1,4 @@
+#Day 1
 # A simple string concatination
 print("Welcome to Brand name generator Application!")
 
