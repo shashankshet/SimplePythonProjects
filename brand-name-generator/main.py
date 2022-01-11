@@ -1,3 +1,4 @@
+# A simple string concatination
 print("Welcome to Brand name generator Application!")
 
 city_name = input("please enter the city you grew up in: ")
