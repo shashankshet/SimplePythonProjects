@@ -1,0 +1,1 @@
+python program to calculate each share to be contributed for a payment
