@@ -1,0 +1,1 @@
+This is a simple blind auction app which takes user name and their bid as the input. It returns the details of the winning bit with name and the bid amount.
